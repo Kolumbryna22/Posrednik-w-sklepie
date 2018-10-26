@@ -1,0 +1,24 @@
+{
+  "name": "posrednik-w-sklepie",
+  "version": "1.0.0",
+  "description": "```sh\r $ npm install\r ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kolumbryna22/Posrednik-w-sklepie.git"
+  },
+  "author": "Dominik Wilusz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kolumbryna22/Posrednik-w-sklepie/issues"
+  },
+  "homepage": "https://github.com/Kolumbryna22/Posrednik-w-sklepie#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5"
+  }
+}
